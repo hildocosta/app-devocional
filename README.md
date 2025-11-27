@@ -1,7 +1,9 @@
 # 📱 Tela de Login - Aplicativo de Devocionais
 
-
+<img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Splash.jpg" alt="Print da Tela de Splash" width="300" />
 <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20de%20Login.jpg" alt="Print da Tela de Login" width="300" />
+<img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Register.jpg" alt="Print da Tela de Register" width="300" />
+
 
 
 
