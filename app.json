@@ -34,6 +34,14 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "BACKEND_URL": "http://192.168.3.112:8000",
+      "eas": {
+        "projectId": "98884bed-fe2e-4779-ba33-4cd968f612fa"
+      }
+    },
+    "owner": "hildo_costa"
+  }   
   }
-}
+
