@@ -2,8 +2,8 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: flex-start;">
   <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Splash.jpg" alt="Print da Tela de Splash" width="300" style="margin: 5px;" />
-  <img src="http://github.com/hildocosta/app-devocional/blob/main/Tela%20Login.jpg" alt="Print da Tela de Login" width="300" style="margin: 5px;" />
-  <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Register.jpg" alt="Print da Tela de Register" width="300" style="margin: 5px;" />
+  <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Login.png" alt="Print da Tela de Login" width="300" style="margin: 5px;" />
+  <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Register.png" alt="Print da Tela de Register" width="300" style="margin: 5px;" />
 </div>
 
 
