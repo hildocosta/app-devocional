@@ -10,8 +10,9 @@
 
 ## 🔹 Sobre o Projeto
 
-Este repositório contém a **tela de login profissional** de um aplicativo de devocionais, desenvolvido de forma **autoral**.  
-O projeto nasceu da necessidade da minha esposa de registrar seus devocionais diariamente em um aplicativo simples e funcional.  
+Este repositório apresenta a **tela de login profissional** do meu aplicativo de devocionais — um projeto autoral, desenvolvido para atender à necessidade da minha esposa de registrar seus devocionais de forma simples, elegante e intuitiva.
+
+O foco atual está no desenvolvimento da experiência de autenticação, garantindo:
 
 > **Objetivo atual:** Foco no desenvolvimento da tela de login, garantindo **design moderno, usabilidade e segurança**.  
 > Futuramente, o aplicativo permitirá salvar devocionais em banco de dados, mas esta etapa é dedicada ao login.
@@ -87,7 +88,7 @@ frontend/
 - O foco principal é a tela de login profissional e segura.
 - Futuras implementações incluirão cadastro, recuperação de senha e gerenciamento de devocionais.
 
-  ### ✨ Contato
+ ### ✨ Contato
 
-Desenvolvido por **Hildo Costa**  
-📧 Email: hyldo.costa@gmail.com
+Desenvolvido por **Hildo Costa**
+📧 Email: [hyldo.costa@gmail.com](mailto:hyldo.costa@gmail.com)
