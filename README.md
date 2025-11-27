@@ -4,6 +4,8 @@
   <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Splash.jpg" alt="Print da Tela de Splash" width="300" style="margin: 5px;" />
   <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Login.png" alt="Print da Tela de Login" width="300" style="margin: 5px;" />
   <img src="https://github.com/hildocosta/app-devocional/blob/main/Tela%20Register.png" alt="Print da Tela de Register" width="300" style="margin: 5px;" />
+  <img src=" https://github.com/hildocosta/app-devocional/blob/main/Tela%20Welcome.jpg" alt="Print da Tela de Welcome" width="300" style="margin: 5px;" />
+ 
 </div>
 
 
@@ -53,6 +55,15 @@ O foco atual está no desenvolvimento da experiência de autenticação, garanti
 
 ```plaintext
 frontend/
+├── app/
+│   ├── auth/
+│   │   ├── login.tsx
+│   │   └── register.tsx
+│   ├── welcome/
+│   │   └── welcome.tsx
+│   └── splash/
+│       └── splash.tsx
+│
 ├── components/
 │   ├── buttons/
 │   │   └── ButtonPrimaryAnimated.js
@@ -63,8 +74,10 @@ frontend/
 │   │   └── LoginColors.js
 │   └── styles/
 │       └── LoginStyles.js
+│
 └── service/
     └── UsuarioService.js
+
 ```
 
 ## Refatorações e Melhorias Implementadas
